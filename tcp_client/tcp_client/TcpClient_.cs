@@ -3,7 +3,7 @@ using System.Text;
 
 namespace tcp_client;
 
-public class TcpClient
+public class TcpClient_
 {
     private const int Port = 8001;
     
@@ -11,7 +11,7 @@ public class TcpClient
     {
         try
         {
-            var tcpClient = new System.Net.Sockets.TcpClient();
+            var tcpClient = new TcpClient();
             Console.WriteLine("Connecting...");
             tcpClient.Connect("127.0.0.1", Port);
             Console.WriteLine("Connected successfully");

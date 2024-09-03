@@ -12,3 +12,4 @@
 /Users/owaisdashti/RiderProjects/tcp_vs_udp/tcp_client/tcp_client/obj/Debug/net8.0/tcp_client.pdb
 /Users/owaisdashti/RiderProjects/tcp_vs_udp/tcp_client/tcp_client/obj/Debug/net8.0/tcp_client.genruntimeconfig.cache
 /Users/owaisdashti/RiderProjects/tcp_vs_udp/tcp_client/tcp_client/obj/Debug/net8.0/ref/tcp_client.dll
+/Users/owaisdashti/RiderProjects/tcp_vs_udp/tcp_client/tcp_client/obj/Debug/net8.0/tcp_client.sourcelink.json

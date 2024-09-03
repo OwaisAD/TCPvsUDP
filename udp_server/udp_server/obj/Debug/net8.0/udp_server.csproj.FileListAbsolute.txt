@@ -1,0 +1,15 @@
+/Users/owaisdashti/RiderProjects/tcp_vs_udp/udp_server/udp_server/bin/Debug/net8.0/udp_server
+/Users/owaisdashti/RiderProjects/tcp_vs_udp/udp_server/udp_server/bin/Debug/net8.0/udp_server.deps.json
+/Users/owaisdashti/RiderProjects/tcp_vs_udp/udp_server/udp_server/bin/Debug/net8.0/udp_server.runtimeconfig.json
+/Users/owaisdashti/RiderProjects/tcp_vs_udp/udp_server/udp_server/bin/Debug/net8.0/udp_server.dll
+/Users/owaisdashti/RiderProjects/tcp_vs_udp/udp_server/udp_server/bin/Debug/net8.0/udp_server.pdb
+/Users/owaisdashti/RiderProjects/tcp_vs_udp/udp_server/udp_server/obj/Debug/net8.0/udp_server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/owaisdashti/RiderProjects/tcp_vs_udp/udp_server/udp_server/obj/Debug/net8.0/udp_server.AssemblyInfoInputs.cache
+/Users/owaisdashti/RiderProjects/tcp_vs_udp/udp_server/udp_server/obj/Debug/net8.0/udp_server.AssemblyInfo.cs
+/Users/owaisdashti/RiderProjects/tcp_vs_udp/udp_server/udp_server/obj/Debug/net8.0/udp_server.csproj.CoreCompileInputs.cache
+/Users/owaisdashti/RiderProjects/tcp_vs_udp/udp_server/udp_server/obj/Debug/net8.0/udp_server.sourcelink.json
+/Users/owaisdashti/RiderProjects/tcp_vs_udp/udp_server/udp_server/obj/Debug/net8.0/udp_server.dll
+/Users/owaisdashti/RiderProjects/tcp_vs_udp/udp_server/udp_server/obj/Debug/net8.0/refint/udp_server.dll
+/Users/owaisdashti/RiderProjects/tcp_vs_udp/udp_server/udp_server/obj/Debug/net8.0/udp_server.pdb
+/Users/owaisdashti/RiderProjects/tcp_vs_udp/udp_server/udp_server/obj/Debug/net8.0/udp_server.genruntimeconfig.cache
+/Users/owaisdashti/RiderProjects/tcp_vs_udp/udp_server/udp_server/obj/Debug/net8.0/ref/udp_server.dll

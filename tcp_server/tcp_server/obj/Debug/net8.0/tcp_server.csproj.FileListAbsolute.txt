@@ -12,3 +12,4 @@
 /Users/owaisdashti/RiderProjects/tcp_vs_udp/tcp_server/tcp_server/obj/Debug/net8.0/tcp_server.pdb
 /Users/owaisdashti/RiderProjects/tcp_vs_udp/tcp_server/tcp_server/obj/Debug/net8.0/tcp_server.genruntimeconfig.cache
 /Users/owaisdashti/RiderProjects/tcp_vs_udp/tcp_server/tcp_server/obj/Debug/net8.0/ref/tcp_server.dll
+/Users/owaisdashti/RiderProjects/tcp_vs_udp/tcp_server/tcp_server/obj/Debug/net8.0/tcp_server.sourcelink.json

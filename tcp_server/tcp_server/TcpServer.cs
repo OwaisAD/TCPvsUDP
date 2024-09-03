@@ -16,15 +16,14 @@ public class TcpServer
             var myList = new TcpListener(ipAddress, Port);
             myList.Start();
             
-            Console.WriteLine($"Server is now running on port {Port}");
-            Console.WriteLine("The local endpoint is: " + myList.LocalEndpoint);
+            Console.WriteLine($"Server is now running on {myList.LocalEndpoint}");
 
             while (true)
             {
                 Console.WriteLine("Waiting for a connection");  
                 
                 var clientSocket = myList.AcceptSocket();
-                Console.WriteLine("Connection accepted from " + clientSocket.RemoteEndPoint);
+                Console.WriteLine("Connection established with " + clientSocket.RemoteEndPoint);
 
                 var clientThread = new Thread(() => HandleClient(clientSocket));
                 clientThread.Start();
@@ -51,7 +50,7 @@ public class TcpServer
                     
                 // convert from bytes to string
                 var clientMessage = Encoding.UTF8.GetString(buffer, 0, bytesRead);
-                Console.WriteLine("Received following message from client: " + clientMessage);
+                Console.WriteLine($"Received following message from {clientSocket.RemoteEndPoint} saying: " + clientMessage);
                 
                 // sending a response back
                 var responseBytes = Encoding.UTF8.GetBytes("Message received! :D");
