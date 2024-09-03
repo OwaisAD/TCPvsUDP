@@ -7,6 +7,7 @@
 - Connection oriented protocol - which means it must first acknowledge a session between the two computers that are communicating.
 - The two computers verify a connection doing a 3-way handshake.
 - TCP guarantees the delivery of the data - so if a data packet is lost and doesn’t arrive, then TCP will resend it.
+- Common uses: Web Browsing (HTTP/HTTPS), Email (SMTP, IMAP, POP3), File Transfer (FTP, SFTP), Remote Access (SSH)
 
 ## UDP:
 
@@ -14,5 +15,7 @@
 - Similar to TCP in that it is a protocol for sending and receiving that, but the main difference is that UDP is connection-less, which means it doesn’t establish a session and it does not guarantee data delivery.
 - Sends data and doesn’t care what happens to it.
 - Because of the less overhead that is involved in not guaranteeing data delivery, UDP is faster than TCP.
+- Common uses: Streaming Media (Video/Audio Streaming), Online Gaming, Voice over IP (VoIP) e.g. Skype/Zoom
+
 
 Unlike TCP, UDP does not establish a persistent connection. Each message is sent individually without any handshake, and there is no guarantee of delivery.
