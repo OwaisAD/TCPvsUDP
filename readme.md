@@ -12,6 +12,4 @@
 - Sends data and doesn’t care what happens to it.
 - Because of the less overhead that is involved in not guaranteeing data delivery, UDP is faster than TCP.
 - Common uses: Streaming Media (Video/Audio Streaming), Online Gaming, Voice over IP (VoIP) e.g. Skype/Zoom
-
-
-Unlike TCP, UDP does not establish a persistent connection. Each message is sent individually without any handshake, and there is no guarantee of delivery.
+- Unlike TCP, UDP does not establish a persistent connection. Each message is sent individually without any handshake, and there is no guarantee of delivery.
